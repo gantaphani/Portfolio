@@ -4393,7 +4393,6 @@ input, select, textarea {
 		letter-spacing: 0.075em;
 		line-height: 1.5;
 		text-align: center;
-		text-transform: uppercase;
 		margin: 4rem auto 8rem auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
